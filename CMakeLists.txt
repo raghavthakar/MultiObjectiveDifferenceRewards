@@ -27,7 +27,8 @@ set(SOURCES
     src/MOD_ablated.cpp
     src/MOD_team_ablated.cpp
     src/NSGA_II.cpp
-    src/main.cpp
+    # src/main.cpp
+    zeke.cpp
 )
 
 # Add executable
